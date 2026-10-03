@@ -1,4 +1,5 @@
-# KD
-一头只会哼哼大睡的小🐖
+# TSUBAKI 椿
 
-爱发电：https://www.ifdian.net/a/wolfe
+一頭只會哼哼大睡的豬。
+
+AFDIAN：[https://www.ifdian.net/a/wolfe](https://www.ifdian.net/a/wolfe)
