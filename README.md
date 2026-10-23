@@ -2,7 +2,10 @@
 
 一頭只會哼哼大睡的豬。
 
-Donate (AFDIAN)：[https://www.ifdian.net/a/wolfe](https://www.ifdian.net/a/wolfe)
+Donate
+- Patreon: @Wolfe
+- Website: [donate.wolfeovo.top](https://donate.wolfeovo.top)
+
 
 ## Languages
 * 🇨🇳 **Chinese (Mandarin):** Native
